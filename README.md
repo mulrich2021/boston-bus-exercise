@@ -1,6 +1,10 @@
 # boston-bus-exercise
 ## An animated map to further illustrate integration between javascript and outside applications like mapbox.
 Taking the mapbox app to integrate with geoJSON information from MBTA in order to provide a more complex look into the bus route.
+
+## Running requirements
+This should run from a browser with nothing additional.
+
 ## License
 Copyright <2021>
 
